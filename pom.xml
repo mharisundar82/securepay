@@ -43,7 +43,7 @@
         <JUnit>4.13</JUnit>
         <LOMBOK>1.18.0.0</LOMBOK>
         <WEBDRIVER>3.8.1</WEBDRIVER>
-        <LOG4J>2.13.0</LOG4J>
+        <LOG4J>2.17.0</LOG4J>
         <JAVAFAKER>1.0.2</JAVAFAKER>
 
 
